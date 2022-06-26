@@ -1,0 +1,17 @@
+name: kemal-layout-bug
+version: 0.1.0
+
+dependencies:
+  kemal:
+    github: kemalcr/kemal
+
+authors:
+  - Serdar Dogruyol <990485+sdogruyol@users.noreply.github.com>
+
+targets:
+  kemal-layout-bug:
+    main: src/kemal-layout-bug.cr
+
+crystal: 1.4.1
+
+license: MIT
